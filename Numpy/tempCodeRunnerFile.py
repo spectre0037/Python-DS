@@ -1,0 +1,1 @@
+print(array[-3:-1])
